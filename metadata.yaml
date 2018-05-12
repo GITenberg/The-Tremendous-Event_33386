@@ -1,0 +1,42 @@
+_repo: The-Tremendous-Event_33386
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Teixeira de Mattos, Alexander
+    aliases:
+    - Teixeira de Mattos, Alexander Louis
+    - Mattos, Alexander Teixera de
+    - Mattos, Alexander Teixeira de
+    - De Mattos, Alexander Teixeira
+    birthdate: 1865
+    deathdate: 1921
+    gutenberg_agent_id: '736'
+    url: http://www.gutenberg.org/2009/agents/736
+covers:
+- cover_type: archival
+  image_path: 33386-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Leblanc, Maurice
+    birthdate: 1864
+    deathdate: 1941
+    gutenberg_agent_id: '1358'
+    url: http://www.gutenberg.org/2009/agents/1358
+    wikipedia: http://en.wikipedia.org/wiki/Maurice_Leblanc
+description: ''
+gutenberg_issued: '2010-08-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33386'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Earthquakes -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'English Channel -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Adventure stories'
+title: The Tremendous Event
+url: http://www.gutenberg.org/ebooks/33386
